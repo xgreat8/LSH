@@ -1,6 +1,5 @@
 pylsh
 ===========
-
 `pylsh` is a Python implementation of locality sensitive hashing with minhash. It is very useful for detecting near duplicate documents.
 
 The implementation uses the MurmurHash v3 library to create document finger prints.
